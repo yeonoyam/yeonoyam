@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?color=E4BF50?height=200&text=yeonoyam&animation=twinkling&fontSize=70&fontAlignY=75&fontColor=fff&stroke=000&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?height=180&text=yeonoyam&animation=twinkling&fontSize=70&fontAlignY=75&fontColor=0D2C3F?color=E4BF50)
